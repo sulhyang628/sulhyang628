@@ -1,5 +1,5 @@
 <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white">
-
+<img src="https://img.shields.io/badge/cplusplus-F7DF1E?style=for-the-badge&logo=cplusplus&logoColor=white">
 
 
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=sulhyang628)](https://solved.ac/sulhyang628)
