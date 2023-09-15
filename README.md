@@ -1,6 +1,4 @@
-![Alt text](/path/to/[img.jpg](https://github.com/sulhyang628/sulhyang628/assets/109871378/cadcf34b-5549-4bff-980c-e7bba4d9251f)))
-
-
+![header](https://capsule-render.vercel.app/api?type=https://cdn.discordapp.com/attachments/985530886764253234/1152251483564277832/KakaoTalk_20230915_233356139.jpgslice)
 
 
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=sulhyang628)](https://solved.ac/sulhyang628)
